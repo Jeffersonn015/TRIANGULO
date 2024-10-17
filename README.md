@@ -1,4 +1,4 @@
-# SISTEMA DE VEICULOS
+# TRIANGULO
 
 Este projeto contém a classe "FuncoesUtei" no pacote "utilidades", com métodos para somar dois inteiros, exibir um triângulo com altura especificada e ler um arquivo de texto.
 A classe "Main" testa essas funcionalidades.
